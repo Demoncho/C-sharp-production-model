@@ -1,0 +1,10 @@
+D:\Homework\AS_product_model\Product_model\bin\Debug\Product_model.exe.config
+D:\Homework\AS_product_model\Product_model\bin\Debug\Product_model.exe
+D:\Homework\AS_product_model\Product_model\bin\Debug\Product_model.pdb
+D:\Homework\AS_product_model\Product_model\obj\Debug\Product_model.csprojAssemblyReference.cache
+D:\Homework\AS_product_model\Product_model\obj\Debug\Product_model.Form1.resources
+D:\Homework\AS_product_model\Product_model\obj\Debug\Product_model.Properties.Resources.resources
+D:\Homework\AS_product_model\Product_model\obj\Debug\Product_model.csproj.GenerateResource.cache
+D:\Homework\AS_product_model\Product_model\obj\Debug\Product_model.csproj.CoreCompileInputs.cache
+D:\Homework\AS_product_model\Product_model\obj\Debug\Product_model.exe
+D:\Homework\AS_product_model\Product_model\obj\Debug\Product_model.pdb
